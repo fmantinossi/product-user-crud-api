@@ -98,7 +98,3 @@ Authorization: Bearer <token>
 ## Contribution
 
 This project was created for personal learning and practice, but contributions are welcome. Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
